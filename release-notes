@@ -1,0 +1,9 @@
+April 7, 2016
+
+- able to download mautic through https://github.com/mautic/mautic
+- extract the mautic package in the desired location
+- can accept a string that can be used as the branding name, and 
+  named the mautic folder to the entered branding name
+- able to unpack the mautic zip file to desired location but have a 
+  default location if not specified
+- able to call composer update once the unpacking is done
